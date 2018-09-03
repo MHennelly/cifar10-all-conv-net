@@ -1,0 +1,5 @@
+#Ignore pycache
+/__pycache__
+
+#Ignore git folder
+/.git
