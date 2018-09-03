@@ -5,3 +5,4 @@ __pycache__/
 model_data/
 processed_batches/
 unprocessed_batches/
+venv/
