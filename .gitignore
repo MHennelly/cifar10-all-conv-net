@@ -2,7 +2,6 @@
 __pycache__/
 
 #Ignore large data files
-model_data/
 processed_batches/
 unprocessed_batches/
 venv/
