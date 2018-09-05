@@ -1,5 +1,6 @@
 #Ignore pycache
 __pycache__/
+*.pyc
 
 #Ignore large data files
 processed_batches/
